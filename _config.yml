@@ -1,0 +1,28 @@
+name: Creative Creatures
+favicon: null
+layout_spectrum: 0.8800543223042041
+typography_spectrum: 0.354480484733358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.602305113337934
+  lightness: 0.8339387781452388
+  saturation: 0.7279403617139906
+  rhythmicContrast: 0.8032363341189921
+purpose: []
